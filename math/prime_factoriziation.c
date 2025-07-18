@@ -47,7 +47,7 @@ int main()
 {
     int n = 0; /* for user input */
 
-    printf("\t\tPrim factoriziation\n\n");
+    printf("\t\tPrime factoriziation\n\n");
     printf("positive integer (> 1) ? ");
     scanf("%d", &n);
     Range r = int_fact(n);
